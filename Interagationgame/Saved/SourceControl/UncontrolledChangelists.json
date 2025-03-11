@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/yalynnyib/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Assets/chair.uasset",
+				"/Users/yalynnyib/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Assets/knife.uasset",
+				"/Users/yalynnyib/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Assets/lightpost.uasset",
+				"/Users/yalynnyib/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Assets/Material_001.uasset",
+				"/Users/yalynnyib/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Assets/mirrorwindow.uasset",
+				"/Users/yalynnyib/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Assets/policecar.uasset",
 				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Clues/InteractionSystem/BPI_Interactable.uasset",
 				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Clues/ACTOR_CLUE.uasset",
 				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LC/XSZX8LQBVYQCOAAUINZBYT.uasset",
