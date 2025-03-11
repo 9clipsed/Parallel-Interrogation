@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Clues/InteractionSystem/BPI_Interactable.uasset",
+				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Clues/ACTOR_CLUE.uasset",
+				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LC/XSZX8LQBVYQCOAAUINZBYT.uasset",
+				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Clues/BP_PoliceOfficer.uasset",
+				"/Users/palisav/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/T5/ENJL29UHRMCX9E1T0SRHTO.uasset",
 				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/HUD_Timer.uasset",
 				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/santangelod/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
