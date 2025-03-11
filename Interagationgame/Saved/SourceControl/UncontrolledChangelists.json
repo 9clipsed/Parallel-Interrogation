@@ -7,6 +7,11 @@
 			"files": [
 				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/HUD_Timer.uasset",
 				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/TheGameImstance.uasset",
+				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/TheGameInstance.uasset",
+				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/HUD_InterrogationDialog.uasset",
+				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/HUD_InterrogationOptions.uasset",
+				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/InterrogationCharacter.uasset",
 				"/Users/santangelod/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/santangelod/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/WBP_DialogueBoxs.uasset",
 				"/Users/santangelod/Documents/Unreal Projects/Interagationgame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
