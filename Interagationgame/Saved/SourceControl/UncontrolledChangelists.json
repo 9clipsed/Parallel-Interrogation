@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/englishc/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"/Users/englishc/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Maps/Interrogation_Scene.umap",
 				"/Users/vieringt/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/UI_Clue_Notif.uasset",
 				"/Users/vieringt/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/TheGameInstance.uasset",
 				"/Users/vieringt/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Clues/BP_BodyAbsence.uasset",
