@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/salmens/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/HUD_InterrogationOptions.uasset",
+				"/Users/salmens/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/InterrogationCharacter.uasset",
 				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/HUD_ComboHud.uasset",
 				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/UI/HUD_InterrogationOptions.uasset",
 				"/Users/leem/Documents/GitHub/Parallel-Interrogation/Interagationgame/Content/FirstPerson/Blueprints/InterrogationCharacter.uasset",
